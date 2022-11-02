@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Create Comment for Product
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 25.933 s <<< FAILURE! - in Create Comment for Product
+Create Comment for Product.Create Product Comment with invalid ID and empty form  Time elapsed: 1.425 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <400> but was <401>.
+
+

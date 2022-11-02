@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create Comment for Product","Create Product Comment with valid ID and filled form as registered user","SUCCESS","2022-11-02T22:09:34.0519668+07:00[Asia/Jakarta]","0.0","12.11"
+"Create Comment for Product","Create Product Comment with valid ID and filled form as anon user","SUCCESS","2022-11-02T22:09:46.6662087+07:00[Asia/Jakarta]","0.0","2.04"
+"Create Comment for Product","Create Product Comment with invalid ID and filled form","SUCCESS","2022-11-02T22:09:48.7491551+07:00[Asia/Jakarta]","0.0","4.21"
+"Create Comment for Product","Create Product Comment with valid ID and empty form as registered user","SUCCESS","2022-11-02T22:09:52.966184+07:00[Asia/Jakarta]","0.0","2.97"
+"Create Comment for Product","Create Product Comment with valid ID and empty form as anon user","SUCCESS","2022-11-02T22:09:55.9528867+07:00[Asia/Jakarta]","0.0","1.68"

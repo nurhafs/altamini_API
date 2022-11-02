@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get User Information","Get User Information with token","SUCCESS","2022-11-02T22:09:34.361534+07:00[Asia/Jakarta]","0.0","11.78"
+"Get User Information","Get User Information without token","SUCCESS","2022-11-02T22:09:46.5529782+07:00[Asia/Jakarta]","0.0","2.34"
+"Login","Login with username and password","SUCCESS","2022-11-02T22:09:34.3076146+07:00[Asia/Jakarta]","0.0","25.61"
+"Register","Register with new data","SUCCESS","2022-11-02T22:09:34.1187705+07:00[Asia/Jakarta]","0.0","11.96"
+"Register","Register","SUCCESS","2022-11-02T22:09:46.2327247+07:00[Asia/Jakarta]","0.0","11.17"

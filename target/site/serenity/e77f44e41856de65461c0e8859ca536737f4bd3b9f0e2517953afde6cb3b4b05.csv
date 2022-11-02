@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create Category","Create Category with filled form as registered user","SUCCESS","2022-11-02T22:09:33.6863337+07:00[Asia/Jakarta]","0.0","12.49"
+"Create Category","Create Category with empty form as registered user","SUCCESS","2022-11-02T22:09:46.3243299+07:00[Asia/Jakarta]","0.0","1.63"
+"Create Category","Create Category with empty form as anon user","SUCCESS","2022-11-02T22:09:50.294146+07:00[Asia/Jakarta]","0.0","8.7"

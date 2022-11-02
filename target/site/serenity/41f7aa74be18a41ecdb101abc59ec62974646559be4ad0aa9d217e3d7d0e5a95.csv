@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create New Product","Create New Product with filled form","SUCCESS","2022-11-02T22:09:34.1040026+07:00[Asia/Jakarta]","0.0","12.07"
+"Create New Product","Create New Product with empty form","SUCCESS","2022-11-02T22:09:46.2803812+07:00[Asia/Jakarta]","0.0","2.03"
