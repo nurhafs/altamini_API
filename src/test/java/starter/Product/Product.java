@@ -65,6 +65,18 @@ public class Product {
                 .body(emptyData().toJSONString());
     }
 
+    public void enterNewDataWithToken() {
+        given().header("Content-Type", "application/json")
+                .header("Authorization", auth)
+                .body(filledData().toJSONString());
+    }
+
+    public void enterEmptyDataWithToken() {
+        given().header("Content-Type", "application/json")
+                .header("Authorization", auth)
+                .body(emptyData().toJSONString());
+    }
+
     public void enterRating(int rate) {
         given().header("Content-Type", "application/json")
                 .body(rating(rate).toJSONString());

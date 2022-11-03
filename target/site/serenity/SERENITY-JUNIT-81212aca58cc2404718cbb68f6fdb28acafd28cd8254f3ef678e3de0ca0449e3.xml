@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Create New Product" skipped="0" tests="2" time="14.1" timestamp="2022-11-02 10:09:34"><testcase name="Create New Product with filled form"/><testcase name="Create New Product with empty form"/></testsuite>

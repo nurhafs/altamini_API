@@ -1,7 +1,11 @@
+starter\Authentication\Authentication.class
 starter\Product\Product.class
 starter\stepdefinitions\CategorySteps.class
 starter\stepdefinitions\AuthenticationSteps.class
-starter\Authentication\Authentication.class
 starter\CucumberTestSuite.class
 starter\stepdefinitions\ProductSteps.class
+starter\Hello\Hello.class
+starter\stepdefinitions\OrderSteps.class
+starter\stepdefinitions\HelloSteps.class
 starter\Category\Category.class
+starter\Order\Order.class

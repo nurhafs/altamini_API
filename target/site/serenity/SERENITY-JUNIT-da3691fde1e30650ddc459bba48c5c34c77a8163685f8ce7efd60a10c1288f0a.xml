@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Create Category" skipped="0" tests="4" time="25.1" timestamp="2022-11-02 10:09:33"><testcase name="Create Category with filled form as registered user"/><testcase name="Create Category with empty form as registered user"/><testcase name="Create Category with filled form as anon user"><failure message="1 expectation failed.&#10;Expected status code &lt;401&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Create Category" skipped="0" tests="4" time="11.96" timestamp="2022-11-03 02:10:35"><testcase name="Create Category with filled form as registered user"/><testcase name="Create Category with empty form as registered user"/><testcase name="Create Category with filled form as anon user"><failure message="1 expectation failed.&#10;Expected status code &lt;401&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
 Expected status code &lt;401&gt; but was &lt;200&gt;.
 </failure><system-err>1 expectation failed.
 Expected status code &lt;401&gt; but was &lt;200&gt;.
@@ -12,7 +12,7 @@ groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
 groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)&#13;
 io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
 io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
-altaShopREST@1.0-SNAPSHOT/starter.Product.Product.statusCode(Product.java:100)&#13;
+altaShopREST@1.0-SNAPSHOT/starter.Product.Product.statusCode(Product.java:112)&#13;
 altaShopREST@1.0-SNAPSHOT/starter.stepdefinitions.ProductSteps.iGetError(ProductSteps.java:47)&#13;
 io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
 io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;

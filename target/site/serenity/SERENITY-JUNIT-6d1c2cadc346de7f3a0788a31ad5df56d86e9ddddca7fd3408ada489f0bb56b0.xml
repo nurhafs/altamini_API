@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Assign Product Rating" skipped="0" tests="8" time="31.35" timestamp="2022-11-02 10:09:34"><testcase name="Assign Product Rating As Registered User"><failure message="1 expectation failed.&#10;JSON path data.Ratings doesn't match.&#10;Expected: &lt;5&gt;&#10;  Actual: &lt;2&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Assign Product Rating" skipped="0" tests="8" time="19.87" timestamp="2022-11-03 02:10:35"><testcase name="Assign Product Rating As Registered User"><failure message="1 expectation failed.&#10;JSON path data.Ratings doesn't match.&#10;Expected: &lt;5&gt;&#10;  Actual: &lt;2&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
 JSON path data.Ratings doesn't match.
 Expected: &lt;5&gt;
   Actual: &lt;2&gt;
@@ -16,7 +16,7 @@ groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
 groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)&#13;
 io.restassured.internal.ValidatableResponseImpl.body(ValidatableResponseImpl.groovy:298)&#13;
 io.restassured.internal.ValidatableResponseImpl.body(ValidatableResponseImpl.groovy)&#13;
-altaShopREST@1.0-SNAPSHOT/starter.Product.Product.checkRatings(Product.java:120)&#13;
+altaShopREST@1.0-SNAPSHOT/starter.Product.Product.checkRatings(Product.java:132)&#13;
 altaShopREST@1.0-SNAPSHOT/starter.stepdefinitions.ProductSteps.iGetResultAsResult(ProductSteps.java:109)&#13;
 io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
 io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;

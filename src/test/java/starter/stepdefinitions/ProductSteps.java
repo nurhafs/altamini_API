@@ -168,4 +168,14 @@ public class ProductSteps {
     public void iLeaveTheCommentsEmptyWithToken() {
         product.fillCommentWithToken("");
     }
+
+    @And("I enter new product data with token")
+    public void iEnterNewProductDataWithToken() {
+        product.enterNewDataWithToken();
+    }
+
+    @And("I enter empty product data with token")
+    public void iEnterEmptyProductDataWithToken() {
+        product.enterEmptyDataWithToken();
+    }
 }

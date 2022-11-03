@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: Assign Product Rating
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 32.581 s <<< FAILURE! - in Assign Product Rating
-Assign Product Rating.Assign Product Rating As Registered User #2  Time elapsed: 2.293 s  <<< ERROR!
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 20.622 s <<< FAILURE! - in Assign Product Rating
+Assign Product Rating.Assign Product Rating As Registered User #2  Time elapsed: 2.684 s  <<< ERROR!
 net.serenitybdd.core.exceptions.SerenityManagedException: 
 1 expectation failed.
 JSON path data.Ratings doesn't match.
