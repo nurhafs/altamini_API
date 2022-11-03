@@ -14,7 +14,7 @@ Feature: Assign Product Rating
     Examples:
       | id | rating | result |
       | "0"  | 2    | "record not found error" |
-      | "41" | 5    | "changed ratings"        |
+      | "41" | 1    | "changed ratings"        |
       | "e"  | 3    | "invalid syntax error"   |
       | ""   | 1    | "not found error"        |
 
