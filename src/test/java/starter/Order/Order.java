@@ -2,10 +2,6 @@ package starter.Order;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-
-import java.util.ArrayList;
-import java.util.List;
-
 import static net.serenitybdd.rest.SerenityRest.*;
 import static org.hamcrest.Matchers.*;
 
