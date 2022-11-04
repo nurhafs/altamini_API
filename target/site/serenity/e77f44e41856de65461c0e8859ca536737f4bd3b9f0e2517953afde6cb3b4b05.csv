@@ -1,4 +1,5 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Create Category","Create Category with filled form as registered user","SUCCESS","2022-11-03T14:10:35.9017157+07:00[Asia/Jakarta]","0.0","6.32"
-"Create Category","Create Category with empty form as registered user","SUCCESS","2022-11-03T14:10:42.5817921+07:00[Asia/Jakarta]","0.0","2.29"
-"Create Category","Create Category with empty form as anon user","SUCCESS","2022-11-03T14:10:46.8479389+07:00[Asia/Jakarta]","0.0","1.39"
+"Create Category","Create Category with filled form as registered user","SUCCESS","2022-11-04T20:46:58.7495864+07:00[Asia/Jakarta]","0.0","9.46"
+"Create Category","Create Category with empty form as registered user","SUCCESS","2022-11-04T20:47:08.4268841+07:00[Asia/Jakarta]","0.0","1.55"
+"Create Category","Create Category with filled form as anon user","SUCCESS","2022-11-04T20:47:10.0766269+07:00[Asia/Jakarta]","0.0","1.56"
+"Create Category","Create Category with empty form as anon user","SUCCESS","2022-11-04T20:47:11.657641+07:00[Asia/Jakarta]","0.0","1.32"

@@ -1,3 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Create Category","Create Category with filled form as anon user","FAILURE","2022-11-03T14:10:44.876828+07:00[Asia/Jakarta]","0.0","1.96"
-"Assign Product Rating","Assign Product Rating As Registered User","FAILURE","2022-11-03T14:10:35.704246+07:00[Asia/Jakarta]","0.0","12.56"
+"Assign Product Rating","Assign Product Rating As Registered User","FAILURE","2022-11-04T20:46:58.9090568+07:00[Asia/Jakarta]","0.0","14.48"

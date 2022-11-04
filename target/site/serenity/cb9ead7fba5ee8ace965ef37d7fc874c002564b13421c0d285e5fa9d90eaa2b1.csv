@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Get Product Comments","Get Product Comments with valid ID","SUCCESS","2022-11-03T14:10:35.951583+07:00[Asia/Jakarta]","0.0","5.46"
-"Get Product Comments","Get Product Comments with invalid ID","SUCCESS","2022-11-03T14:10:41.4781071+07:00[Asia/Jakarta]","0.0","1.4"
+"Get Product Comments","Get Product Comments with valid ID","SUCCESS","2022-11-04T20:46:59.0229741+07:00[Asia/Jakarta]","0.0","8.03"
+"Get Product Comments","Get Product Comments with invalid ID","SUCCESS","2022-11-04T20:47:07.0739812+07:00[Asia/Jakarta]","0.0","1.49"
