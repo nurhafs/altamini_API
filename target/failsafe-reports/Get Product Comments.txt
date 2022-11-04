@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Get Product Comments
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.047 s - in Get Product Comments
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.904 s - in Get Product Comments

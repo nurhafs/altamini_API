@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Get User Information" skipped="0" tests="2" time="10.92" timestamp="2022-11-03 09:31:44"><testcase name="Get User Information with token"/><testcase name="Get User Information without token"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Get User Information" skipped="0" tests="2" time="7.98" timestamp="2022-11-03 02:10:36"><testcase name="Get User Information with token"/><testcase name="Get User Information without token"/></testsuite>

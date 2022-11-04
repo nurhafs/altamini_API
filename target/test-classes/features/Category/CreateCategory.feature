@@ -19,7 +19,7 @@ Feature: Create Category
     Given I set category url
     And I filled new category data
     When I request post category
-    Then New category created
+    Then I get error 401
 
   Scenario: Create Category with empty form as anon user
     Given I set category url

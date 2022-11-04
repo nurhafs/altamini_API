@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Get Category
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.01 s - in Get Category
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.136 s - in Get Category
