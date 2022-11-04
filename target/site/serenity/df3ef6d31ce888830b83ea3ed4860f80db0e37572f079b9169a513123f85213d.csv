@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Get A Product","Get A Product with Valid ID","SUCCESS","2022-11-04T20:46:59.0041744+07:00[Asia/Jakarta]","0.0","10.85"
+"Get A Product","Get A Product with Valid ID","SUCCESS","2022-11-04T21:22:06.6655433+07:00[Asia/Jakarta]","0.0","8.48"
+"Get A Product","Get A Product with Invalid ID","SUCCESS","2022-11-04T21:22:15.3776098+07:00[Asia/Jakarta]","0.0","1.38"

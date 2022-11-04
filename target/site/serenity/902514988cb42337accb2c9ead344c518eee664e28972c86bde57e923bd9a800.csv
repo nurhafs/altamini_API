@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Get User Information","Get User Information with token","SUCCESS","2022-11-04T20:46:58.1766688+07:00[Asia/Jakarta]","0.0","10.03"
-"Get User Information","Get User Information without token","SUCCESS","2022-11-04T20:47:08.4816217+07:00[Asia/Jakarta]","0.0","1.35"
+"Get User Information","Get User Information with token","SUCCESS","2022-11-04T21:22:06.7622863+07:00[Asia/Jakarta]","0.0","8.64"
+"Get User Information","Get User Information without token","SUCCESS","2022-11-04T21:22:15.4354524+07:00[Asia/Jakarta]","0.0","1.41"

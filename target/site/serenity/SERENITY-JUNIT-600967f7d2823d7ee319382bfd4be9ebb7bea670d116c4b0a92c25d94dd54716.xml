@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Delete Product" skipped="0" tests="2" time="10.99" timestamp="2022-11-04 08:46:58"><testcase name="Delete Product with Valid ID"/><testcase name="Delete Product with Invalid ID"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Delete Product" skipped="0" tests="2" time="10.59" timestamp="2022-11-04 09:22:06"><testcase name="Delete Product with Valid ID"/><testcase name="Delete Product with Invalid ID"/></testsuite>

@@ -18,6 +18,7 @@ Feature: Register
     Examples:
     | email | password | fullname | result |
     |       | password | fullname | email error |
+    |       |          |          | email error |
     | sum@mail.com |   | fullname | password error |
     | sum@mail.com | password |  | fullname error |
     | someone@mail.com | 123123 | Firstname Lastname | duplicate error |

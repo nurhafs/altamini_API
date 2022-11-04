@@ -8,7 +8,7 @@ Scenario: Get A Product with Valid ID
   When I request get with valid id
   Then I get product detail
 
-  Scenario: Get A Product with Valid ID
+  Scenario: Get A Product with Invalid ID
     Given I set product url
     When I request get with invalid id
     Then I get invalid syntax error

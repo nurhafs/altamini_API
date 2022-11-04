@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Delete Product","Delete Product with Valid ID","SUCCESS","2022-11-04T20:46:58.7639255+07:00[Asia/Jakarta]","0.0","9.38"
-"Delete Product","Delete Product with Invalid ID","SUCCESS","2022-11-04T20:47:08.3111923+07:00[Asia/Jakarta]","0.0","1.6"
+"Delete Product","Delete Product with Valid ID","SUCCESS","2022-11-04T21:22:06.0252554+07:00[Asia/Jakarta]","0.0","9.12"
+"Delete Product","Delete Product with Invalid ID","SUCCESS","2022-11-04T21:22:15.2210255+07:00[Asia/Jakarta]","0.0","1.47"

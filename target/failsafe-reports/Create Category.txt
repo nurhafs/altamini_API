@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Create Category
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.412 s - in Create Category
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.886 s - in Create Category

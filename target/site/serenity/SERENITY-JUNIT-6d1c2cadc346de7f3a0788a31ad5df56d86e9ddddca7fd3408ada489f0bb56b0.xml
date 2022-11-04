@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Assign Product Rating" skipped="0" tests="8" time="21.86" timestamp="2022-11-04 08:46:58"><testcase name="Assign Product Rating As Registered User"><failure message="1 expectation failed.&#10;JSON path data.Ratings doesn't match.&#10;Expected: &lt;5&gt;&#10;  Actual: &lt;2&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Assign Product Rating" skipped="0" tests="8" time="18.71" timestamp="2022-11-04 09:22:06"><testcase name="Assign Product Rating As Registered User"><failure message="1 expectation failed.&#10;JSON path data.Ratings doesn't match.&#10;Expected: &lt;5&gt;&#10;  Actual: &lt;2&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
 JSON path data.Ratings doesn't match.
 Expected: &lt;5&gt;
   Actual: &lt;2&gt;
